@@ -1,6 +1,6 @@
 {
   "name": "form-buddy",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A fun and interactive Angular form library with animated character that follows the mouse and closes eyes on password fields",
   "keywords": [
     "angular",
